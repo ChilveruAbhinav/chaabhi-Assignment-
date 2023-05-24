@@ -1,7 +1,9 @@
 .main-container{
     height: 100vh;
-    background-color: #0a0a0a;
+    /* background-color: #0a0a0a; */
+    background-image: url("https://e7.pngegg.com/pngimages/312/165/png-clipart-computer-keyboard-computer-mouse-scalable-graphics-cartoon-keyboard-cartoon-character-electronics.png");
     background-size: cover;
+    
     padding: 30px;
     display: flex;
     flex-direction: column;
@@ -10,7 +12,8 @@
 }
 
 .main-heading{
-    color: #cccaca;
+    color: #000000;
+    
     font-family: "Bree Serif";
     font-size: 50px;
     text-decoration: wavy;
@@ -40,7 +43,7 @@
 }
 
 .timer{
-    color: #cccaca;
+    color: #000000;
     font-family: "roboto";
     font-size: 20px;
     font-weight: 500;
